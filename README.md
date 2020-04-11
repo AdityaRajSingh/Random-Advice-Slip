@@ -1,7 +1,7 @@
 # Random-Advice-Slip
 Lets get a Advice.
 
-[Link](https://adityarajsingh.github.ioRandom-Advice-Slip/)
+[Link]( https://adityarajsingh.github.io/Random-Advice-Slip/)
 
 ## Random-Advice-Slip
 
