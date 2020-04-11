@@ -1,5 +1,5 @@
 # Random-Advice-Slip
-Take the Dice Challenge.
+Lets get a Advice.
 
 [Link](https://adityarajsingh.github.ioRandom-Advice-Slip/)
 
